@@ -1,0 +1,19 @@
+title: Save System Lite Documentation
+description: Professional documentation site for Save System Lite, the robust free-tier key-value save system by DecNet Games.
+theme: just-the-docs
+
+# Enable GitHub Pages remote theme compatibility to avoid missing gem build errors
+remote_theme: just-the-docs/just-the-docs
+
+url: "https://decnet-games.github.io"
+baseurl: "/SaveSystemLite-Doc"
+
+# Navigation settings
+nav_sort: case_insensitive
+
+# Color Scheme & Theme Customization
+color_scheme: dark
+
+aux_links:
+  DecNet Games Asset Store: https://assetstore.unity.io/
+  GitHub Repository: https://github.com/DecNet-Games/SaveSystemLite-Doc
